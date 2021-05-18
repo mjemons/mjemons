@@ -5,4 +5,5 @@ I am Martin, a student in Computational Biology and Bioinformatics at the Swiss 
 🌱 I’m currently deepening my understanding in ML, AI and various topics connected to Computational Biology and enjoy coding in C++, Python and R.
 
 📝 Past project: Simulation in theoretical biology, trying to understand the effects of vaccination on antibiotic resistance.
+
 📝 Current project: Data Science Intern at Roche Diagnostics International AG
