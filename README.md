@@ -6,6 +6,6 @@ I am Martin, a student in Computational Biology and Bioinformatics at the Swiss 
 
 📝 Past project: Simulation in theoretical biology, trying to understand the effects of vaccination on antibiotic resistance.
 
-📝 Past project: Data Science Intern at Roche Diagnostics International AG
+📝 Past project: Data Science Intern at Roche Diagnostics International AG working on risk prediction of chronic kidney disease.
 
 📝 Current project: Master thesis on evolutionary dynamics of antimicrobial resistance in europe.
