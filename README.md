@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Martin, a student in Computational Biology and Bioinformatics at the Swiss Federal Institute of Technology in Zurich (ETHZ). 
+I am Martin, a PhD student in Epidemiology and Biostatistics at the University of Zurich (UZH). 
 
 🌱 I’m currently deepening my understanding in ML, AI and various topics connected to Computational Biology and enjoy coding in C++, Python and R.
 
@@ -8,4 +8,4 @@ I am Martin, a student in Computational Biology and Bioinformatics at the Swiss 
 
 📝 Past project: Data Science Intern at Roche Diagnostics International AG working on risk prediction of chronic kidney disease.
 
-📝 Current project: Master thesis on evolutionary dynamics of antimicrobial resistance in europe.
+📝 Past project: Master thesis on evolutionary dynamics of antimicrobial resistance in europe.
